@@ -1,1 +1,1 @@
-Screenshots for omacom/omarchy-hyprland-titlebars#10 and #11.
+Screenshots for omacom/omarchy-hyprland-titlebars#11 and the glass titlebars PR.
